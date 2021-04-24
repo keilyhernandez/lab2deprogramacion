@@ -1,0 +1,15 @@
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.vbprojAssemblyReference.cache
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.Form1.resources
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.vbproj.GenerateResource.cache
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.AssemblyInfoInputs.cache
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.AssemblyInfo.vb
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.vbproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\bin\Debug\netcoreapp3.1\OperacionesAritmenticas.exe
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\bin\Debug\netcoreapp3.1\OperacionesAritmenticas.deps.json
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\bin\Debug\netcoreapp3.1\OperacionesAritmenticas.runtimeconfig.json
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\bin\Debug\netcoreapp3.1\OperacionesAritmenticas.runtimeconfig.dev.json
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\bin\Debug\netcoreapp3.1\OperacionesAritmenticas.dll
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\bin\Debug\netcoreapp3.1\OperacionesAritmenticas.pdb
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.dll
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.pdb
+C:\Users\alvar\source\repos\OperacionesAritmenticas\OperacionesAritmenticas\obj\Debug\netcoreapp3.1\OperacionesAritmenticas.genruntimeconfig.cache
